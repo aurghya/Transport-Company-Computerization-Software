@@ -8,5 +8,6 @@ The manager should be able to view the status of different trucks at any time. T
 
 The manager should also be able to view the average waiting period for different consignments. This statistics is important for him since he normally orders new trucks when the average waiting period for consignments becomes high due to non-availability of trucks. Also, the manager would like to see the average idle time of the truck in the branch for a given period for future planning.
 
-**Major Entities:** trucks management, offices, consignments etc.
+**Major Entities:** trucks management, offices, consignments etc.  
+
 **Major functionalities:** consignment details, status of the consignments, truck details etc.
